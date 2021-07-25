@@ -4346,6 +4346,16 @@ section .ltWrapHead {
   }
 }
 
+/*iphone 5*/
+@media (device-height: 568px) and (device-width: 320px) and (-webkit-min-device-pixel-ratio: 2) {
+  .modal-popup {
+    max-height: 485px;
+  }
+  .basicLightbox::after {
+    top: 0.8rem !important;
+  }
+}
+
 /* ===================================================================
  * # CTA
  *
