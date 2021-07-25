@@ -4340,6 +4340,10 @@ section .ltWrapHead {
   .modal-popup__cat {
     width: 100%;
   }
+
+  .modal-popup {
+    max-height: 550px;
+  }
 }
 
 /* ===================================================================
