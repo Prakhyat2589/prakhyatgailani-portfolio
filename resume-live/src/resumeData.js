@@ -155,19 +155,19 @@ let resumeData = {
       {
         "client":"Ageas Insurance UK",
         "timeline": "March 2020 - Present",
-        "role": "Agile Developer",
+        "role": "Front-end Developer",
         "responsibility": "Working in ReactJs, Joi validation, Javascript, Typescript, Jest"
       },
       {
         "client":"ING Bank N.V.",
         "timeline": "December 2018 - November-2019",
-        "role": "Agile Developer",
+        "role": "Front-end Developer",
         "responsibility": "Worked in PolymerJs (by Google) included google maps, api calling, language internationalization, chat services (salesforce component)"
       },
       {
         "client":"Pfizer",
         "timeline": "October 2012 - November-2018",
-        "role": "Junior Developer - Team Lead",
+        "role": "Team Lead",
         "responsibility": "Worked on muliple projects in various roles starting from junior developer to team lead. Please check resume for detailed information"
       },
     ],
