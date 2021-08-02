@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/prakhyatgailani-portfolio/static/css/main.721a71bf.chunk.css",
-    "main.js": "/prakhyatgailani-portfolio/static/js/main.ae179fb9.chunk.js",
-    "main.js.map": "/prakhyatgailani-portfolio/static/js/main.ae179fb9.chunk.js.map",
+    "main.js": "/prakhyatgailani-portfolio/static/js/main.e668c7e4.chunk.js",
+    "main.js.map": "/prakhyatgailani-portfolio/static/js/main.e668c7e4.chunk.js.map",
     "runtime-main.js": "/prakhyatgailani-portfolio/static/js/runtime-main.36d03e49.js",
     "runtime-main.js.map": "/prakhyatgailani-portfolio/static/js/runtime-main.36d03e49.js.map",
     "static/css/2.fa0e80a5.chunk.css": "/prakhyatgailani-portfolio/static/css/2.fa0e80a5.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.fa0e80a5.chunk.css",
     "static/js/2.24d95f1f.chunk.js",
     "static/css/main.721a71bf.chunk.css",
-    "static/js/main.ae179fb9.chunk.js"
+    "static/js/main.e668c7e4.chunk.js"
   ]
 }
