@@ -1,5 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
+import ReactGA from "react-ga";
 import React, { Component } from 'react';
 import Header from './components/header/header';
 import About from './components/about/about';
@@ -9,8 +10,15 @@ import ContactUs from './components/contactus/contactus';
 import Footer from './components/footer/footer';
 import resumeData from './resumeData';
 // import {ssAlertBoxes, ssBackToTop, ssLightbox, ssMobileMenu, ssMoveHeader, ssParallax, ssPreloader, ssScrollSpy, ssSwiper}  from './js'
+
+const initializeReactGA = () => {
+  ReactGA.initialize("G-191ZQR05LM");
+  // ReactGA.pageview('/homepage');
+};
 class App extends Component {
-  
+  componentDidMount() {
+    initializeReactGA();
+  }
   render() {
     return (
       <div className="App">
