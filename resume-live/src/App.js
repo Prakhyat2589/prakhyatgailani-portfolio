@@ -12,7 +12,7 @@ import resumeData from './resumeData';
 // import {ssAlertBoxes, ssBackToTop, ssLightbox, ssMobileMenu, ssMoveHeader, ssParallax, ssPreloader, ssScrollSpy, ssSwiper}  from './js'
 
 const initializeReactGA = () => {
-  ReactGA.initialize("G-191ZQR05LM");
+  ReactGA.initialize("UA-204884914-2");
   ReactGA.pageview('/');
 };
 class App extends Component {
