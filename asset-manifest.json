@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/prakhyatgailani-portfolio/static/css/main.721a71bf.chunk.css",
-    "main.js": "/prakhyatgailani-portfolio/static/js/main.e4549a49.chunk.js",
-    "main.js.map": "/prakhyatgailani-portfolio/static/js/main.e4549a49.chunk.js.map",
+    "main.js": "/prakhyatgailani-portfolio/static/js/main.d8dc9f29.chunk.js",
+    "main.js.map": "/prakhyatgailani-portfolio/static/js/main.d8dc9f29.chunk.js.map",
     "runtime-main.js": "/prakhyatgailani-portfolio/static/js/runtime-main.a528a24d.js",
     "runtime-main.js.map": "/prakhyatgailani-portfolio/static/js/runtime-main.a528a24d.js.map",
     "static/css/2.fa0e80a5.chunk.css": "/prakhyatgailani-portfolio/static/css/2.fa0e80a5.chunk.css",
-    "static/js/2.6d3b7d8c.chunk.js": "/prakhyatgailani-portfolio/static/js/2.6d3b7d8c.chunk.js",
-    "static/js/2.6d3b7d8c.chunk.js.map": "/prakhyatgailani-portfolio/static/js/2.6d3b7d8c.chunk.js.map",
+    "static/js/2.9153abda.chunk.js": "/prakhyatgailani-portfolio/static/js/2.9153abda.chunk.js",
+    "static/js/2.9153abda.chunk.js.map": "/prakhyatgailani-portfolio/static/js/2.9153abda.chunk.js.map",
     "static/js/3.82be190f.chunk.js": "/prakhyatgailani-portfolio/static/js/3.82be190f.chunk.js",
     "static/js/3.82be190f.chunk.js.map": "/prakhyatgailani-portfolio/static/js/3.82be190f.chunk.js.map",
     "index.html": "/prakhyatgailani-portfolio/index.html",
     "static/css/2.fa0e80a5.chunk.css.map": "/prakhyatgailani-portfolio/static/css/2.fa0e80a5.chunk.css.map",
     "static/css/main.721a71bf.chunk.css.map": "/prakhyatgailani-portfolio/static/css/main.721a71bf.chunk.css.map",
-    "static/js/2.6d3b7d8c.chunk.js.LICENSE.txt": "/prakhyatgailani-portfolio/static/js/2.6d3b7d8c.chunk.js.LICENSE.txt",
+    "static/js/2.9153abda.chunk.js.LICENSE.txt": "/prakhyatgailani-portfolio/static/js/2.9153abda.chunk.js.LICENSE.txt",
     "static/media/Prakhyat-Gailani-Resume-Front-End-engineer.ba1a4367.pdf": "/prakhyatgailani-portfolio/static/media/Prakhyat-Gailani-Resume-Front-End-engineer.ba1a4367.pdf",
     "static/media/font-awesome.min.css": "/prakhyatgailani-portfolio/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.a528a24d.js",
     "static/css/2.fa0e80a5.chunk.css",
-    "static/js/2.6d3b7d8c.chunk.js",
+    "static/js/2.9153abda.chunk.js",
     "static/css/main.721a71bf.chunk.css",
-    "static/js/main.e4549a49.chunk.js"
+    "static/js/main.d8dc9f29.chunk.js"
   ]
 }

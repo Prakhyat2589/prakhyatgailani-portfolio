@@ -3930,6 +3930,15 @@ section .ltWrapHead {
   }
 }
 
+ul.social {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  max-width: 100px;
+  margin: 0 auto;
+}
+
 /* ===================================================================
  * # about
  *
