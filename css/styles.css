@@ -3933,7 +3933,7 @@ section .ltWrapHead {
 ul.social {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-evenly;
   width: 100%;
   max-width: 100px;
   margin: 0 auto;
