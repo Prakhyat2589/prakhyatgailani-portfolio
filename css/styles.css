@@ -2757,12 +2757,11 @@ button.btn--pill {
   width: 45%;
 }
 
-.skill-bars-fat li .percent50::before {
+.skill-bars-fat li .percent50 {
   width: 50%;
 }
-
-.skill-bars-fat li .percent55::before {
-  width: 55%;
+.skill-bars-fat li .per50::after {
+  content: "50%";
 }
 
 .skill-bars-fat li .percent60 {
