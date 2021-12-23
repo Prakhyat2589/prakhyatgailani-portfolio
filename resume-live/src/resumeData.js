@@ -91,11 +91,15 @@ let resumeData = {
     },
     {
       skillName: "Typescript",
-      number: "70",
+      number: "60",
     },
     {
       skillName: "Angular2+",
       number: "65",
+    },
+    {
+      skillName: "Nodejs",
+      number: "50",
     },
     {
       skillName: "Agile",
@@ -142,10 +146,13 @@ let resumeData = {
       toolName: "Jira",
     },
     {
-      toolName: "Codepen",
+      toolName: "Confluence",
     },
     {
-      toolName: "Azure",
+      toolName: "Postman",
+    },
+    {
+      toolName: "SoapUI",
     },
     {
       toolName: "Adobe photoshop",
@@ -160,7 +167,7 @@ let resumeData = {
       timeline: "March 2020 - Present",
       role: "Front-end Developer",
       responsibility:
-        "Working in ReactJs, Joi validation, Javascript, Typescript, Jest",
+        "Working in ReactJs, Joi validation, Javascript, Typescript, Jest, Agile(Scrum-Kanabn)",
     },
     {
       client: "ING Bank N.V.",
@@ -179,8 +186,29 @@ let resumeData = {
   ],
   portfolio: [
     {
-      name: "Ageas Home",
+      name: "Ageas Van",
       id: "modal-01",
+      description:
+        "Ageas Van Insurance UK is a website that allows the user to buy insurance for their van",
+      imgurl: "images/portfolio/Ageas-van.png",
+      bigimgurl: "images/portfolio/gallery/g-Ageas-van.png",
+      url: "https://van.ageas.co.uk",
+      tags: [
+        "ReactJs",
+        "NodeJs",
+        "Javascript",
+        "Jest",
+        "Kubernetes",
+        "Responsive",
+        "Git",
+        "Whitelabel",
+        "Code reusability",
+        "Azure Repos",
+      ],
+    },
+    {
+      name: "Ageas Home",
+      id: "modal-02",
       description:
         "Ageas Home Insurance UK is a website that allows the user to buy insurance for their property",
       imgurl: "images/portfolio/Ageas-home.png",
@@ -200,7 +228,7 @@ let resumeData = {
     },
     {
       name: "Ing Bancassurance",
-      id: "modal-02",
+      id: "modal-03",
       description:
         "It is a mobile platorm where ING along with its partnership with an Insurer launched a digital bancassurance proposition. The website can be accessed by new and existing customers via ING app only",
       imgurl: "images/portfolio/ing.jpeg",
@@ -217,7 +245,7 @@ let resumeData = {
     },
     {
       name: "Ra Xeljanz",
-      id: "modal-03",
+      id: "modal-04",
       description:
         "Ra Xelajnz is a website that provides information to the user about Xeljanz pill and also enables the user to sign up for the more detail information",
       imgurl: "images/portfolio/ra-xeljanz.png",
@@ -236,7 +264,7 @@ let resumeData = {
     },
     {
       name: "Lipitor",
-      id: "modal-04",
+      id: "modal-05",
       description:
         "Lipitor is one of the website which was built using a template (a template used to create many other similar websites like celebrex.com)",
       imgurl: "images/portfolio/lipitor.png",
@@ -254,7 +282,7 @@ let resumeData = {
     },
     {
       name: "Celebrex",
-      id: "modal-05",
+      id: "modal-06",
       description:
         "Celebrex is another one of the website which was built using a template (a template used to create many other similar websites like lipitor.com)",
       imgurl: "images/portfolio/celebrex.png",
@@ -272,7 +300,7 @@ let resumeData = {
     },
     {
       name: "Arthritis",
-      id: "modal-06",
+      id: "modal-07",
       description:
         "Arthritis is a responsive website includes information about arthritis and sign up form",
       imgurl: "images/portfolio/arthritis.png",
