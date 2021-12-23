@@ -167,7 +167,7 @@ let resumeData = {
       timeline: "March 2020 - Present",
       role: "Front-end Developer",
       responsibility:
-        "Working in ReactJs, Joi validation, Javascript, Typescript, Jest, Agile(Scrum-Kanabn)",
+        "Working in ReactJs, Joi validation, Javascript, Typescript, Jest, Agile(Scrum-Kanban)",
     },
     {
       client: "ING Bank N.V.",
