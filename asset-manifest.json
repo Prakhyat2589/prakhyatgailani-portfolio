@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/prakhyatgailani-portfolio/static/css/main.721a71bf.chunk.css",
-    "main.js": "/prakhyatgailani-portfolio/static/js/main.737a53d0.chunk.js",
-    "main.js.map": "/prakhyatgailani-portfolio/static/js/main.737a53d0.chunk.js.map",
+    "main.js": "/prakhyatgailani-portfolio/static/js/main.29b454ce.chunk.js",
+    "main.js.map": "/prakhyatgailani-portfolio/static/js/main.29b454ce.chunk.js.map",
     "runtime-main.js": "/prakhyatgailani-portfolio/static/js/runtime-main.a528a24d.js",
     "runtime-main.js.map": "/prakhyatgailani-portfolio/static/js/runtime-main.a528a24d.js.map",
     "static/css/2.fa0e80a5.chunk.css": "/prakhyatgailani-portfolio/static/css/2.fa0e80a5.chunk.css",
-    "static/js/2.6bec0429.chunk.js": "/prakhyatgailani-portfolio/static/js/2.6bec0429.chunk.js",
-    "static/js/2.6bec0429.chunk.js.map": "/prakhyatgailani-portfolio/static/js/2.6bec0429.chunk.js.map",
+    "static/js/2.040ea791.chunk.js": "/prakhyatgailani-portfolio/static/js/2.040ea791.chunk.js",
+    "static/js/2.040ea791.chunk.js.map": "/prakhyatgailani-portfolio/static/js/2.040ea791.chunk.js.map",
     "static/js/3.82be190f.chunk.js": "/prakhyatgailani-portfolio/static/js/3.82be190f.chunk.js",
     "static/js/3.82be190f.chunk.js.map": "/prakhyatgailani-portfolio/static/js/3.82be190f.chunk.js.map",
     "index.html": "/prakhyatgailani-portfolio/index.html",
     "static/css/2.fa0e80a5.chunk.css.map": "/prakhyatgailani-portfolio/static/css/2.fa0e80a5.chunk.css.map",
     "static/css/main.721a71bf.chunk.css.map": "/prakhyatgailani-portfolio/static/css/main.721a71bf.chunk.css.map",
-    "static/js/2.6bec0429.chunk.js.LICENSE.txt": "/prakhyatgailani-portfolio/static/js/2.6bec0429.chunk.js.LICENSE.txt",
-    "static/media/Prakhyat-Gailani-Resume-Front-End-engineer.ba1a4367.pdf": "/prakhyatgailani-portfolio/static/media/Prakhyat-Gailani-Resume-Front-End-engineer.ba1a4367.pdf",
+    "static/js/2.040ea791.chunk.js.LICENSE.txt": "/prakhyatgailani-portfolio/static/js/2.040ea791.chunk.js.LICENSE.txt",
+    "static/media/Prakhyat-Gailani-Resume-Front-End-engineer.4d75822d.pdf": "/prakhyatgailani-portfolio/static/media/Prakhyat-Gailani-Resume-Front-End-engineer.4d75822d.pdf",
     "static/media/font-awesome.min.css": "/prakhyatgailani-portfolio/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.a528a24d.js",
     "static/css/2.fa0e80a5.chunk.css",
-    "static/js/2.6bec0429.chunk.js",
+    "static/js/2.040ea791.chunk.js",
     "static/css/main.721a71bf.chunk.css",
-    "static/js/main.737a53d0.chunk.js"
+    "static/js/main.29b454ce.chunk.js"
   ]
 }
