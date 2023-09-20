@@ -8,7 +8,7 @@ let resumeData = {
   linkedinId: "Your LinkedIn Id",
   skypeid: "Your skypeid",
   roleDescription:
-    "I started my journey nearly 10 years ago. I grind HTML and CSS and then weld them with Front-end frameworks into beautiful and efficient websites. ",
+    "I started my journey nearly 12 years ago. I grind HTML and CSS and then weld them with Front-end frameworks into beautiful and efficient websites.",
   socialLinks: [
     {
       name: "linkedin",
@@ -20,11 +20,6 @@ let resumeData = {
       url: "https://github.com/Prakhyat2589",
       className: "fa fa-github",
     },
-    // {
-    //   "name":"skype",
-    //   "url":"http://skype.com",
-    //   "className":"fa fa-skype"
-    // }
   ],
   aboutme:
     "I have finished my B.E. in Computer Science and have been working in industry for past few years.",
@@ -134,6 +129,9 @@ let resumeData = {
   ],
   tools: [
     {
+      toolName: "WebStrom",
+    },
+    {
       toolName: "VSCode",
     },
     {
@@ -163,11 +161,18 @@ let resumeData = {
   ],
   workDetails: [
     {
+      client: "University of Oxford",
+      timeline: "July 2022 - Present",
+      role: "Research Software Engineer",
+      responsibility:
+        "Working in VueJs, D3.js, Javascript, Jest, GraphQL, Figma",
+    },
+    {
       client: "Ageas Insurance UK",
-      timeline: "March 2020 - Present",
+      timeline: "March 2020 - June 2022",
       role: "Front-end Developer",
       responsibility:
-        "Working in ReactJs, Joi validation, Javascript, Typescript, Jest, Agile(Scrum-Kanban)",
+        "Worked in ReactJs, Joi validation, Javascript, Typescript, Jest, Agile(Scrum-Kanban)",
     },
     {
       client: "ING Bank N.V.",
@@ -185,6 +190,24 @@ let resumeData = {
     },
   ],
   portfolio: [
+    {
+      name: "FairAssist",
+      id: "modal-00",
+      description:
+        "Ageas Van Insurance UK is a website that allows the user to buy insurance for their van",
+      imgurl: "images/portfolio/Fairassist.png",
+      bigimgurl: "images/portfolio/gallery/g-Fairassist.png",
+      url: "https://assist.fairsharing.org/",
+      tags: [
+        "VueJs",
+        "Javascript",
+        "Jest",
+        "Ruby",
+        "Responsive",
+        "Git",
+        "GraphQl",
+      ],
+    },
     {
       name: "Ageas Van",
       id: "modal-01",
