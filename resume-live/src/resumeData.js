@@ -194,12 +194,13 @@ let resumeData = {
       name: "FairAssist",
       id: "modal-00",
       description:
-        "Ageas Van Insurance UK is a website that allows the user to buy insurance for their van",
+        "FAIRassist helps the users to find the result in the FAIRsharing.org",
       imgurl: "images/portfolio/Fairassist.png",
       bigimgurl: "images/portfolio/gallery/g-Fairassist.png",
       url: "https://assist.fairsharing.org/",
       tags: [
         "VueJs",
+        "D3.js",
         "Javascript",
         "Jest",
         "Ruby",
