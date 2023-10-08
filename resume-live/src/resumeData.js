@@ -81,8 +81,16 @@ let resumeData = {
       number: "70",
     },
     {
+      skillName: "VueJs",
+      number: "70",
+    },
+    {
       skillName: "ReactJs",
       number: "70",
+    },
+    {
+      skillName: "D3.js",
+      number: "50",
     },
     {
       skillName: "Typescript",
@@ -112,7 +120,13 @@ let resumeData = {
       languageName: "Javascript",
     },
     {
+      languageName: "VueJs",
+    },
+    {
       languageName: "ReactJs",
+    },
+    {
+      languageName: "D3.js",
     },
     {
       languageName: "Typescript",
